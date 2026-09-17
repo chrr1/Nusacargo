@@ -12,15 +12,16 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "react-jsx",
+    "noUncheckedIndexedAccess": true,
     "incremental": true,
+    "noImplicitReturns": true,
+    "exactOptionalPropertyTypes": true, 
     "plugins": [
       {
         "name": "next"
       }
     ],
-    "paths": {
-      "@/*": ["./src/*"]
-    }
+    "paths": { "@/*": ["./src/*"] }
   },
   "include": [
     "next-env.d.ts",
