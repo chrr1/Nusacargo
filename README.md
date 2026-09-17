@@ -33,3 +33,4 @@ analitik berupa tren data pengiriman.
 ```bash
 npm install
 npm run dev
+```

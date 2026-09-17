@@ -15,7 +15,7 @@
     "noUncheckedIndexedAccess": true,
     "incremental": true,
     "noImplicitReturns": true,
-    "exactOptionalPropertyTypes": true, 
+    "exactOptionalPropertyTypes": true,
     "plugins": [
       {
         "name": "next"
